@@ -424,7 +424,9 @@ form textarea{
 }
 
 @media (max-width: 881px){
-
+    .logo{
+      font-size: 1rem;
+    }
     :root{
         --big-font: 2.7rem;
         --medium-font: 1.4rem
